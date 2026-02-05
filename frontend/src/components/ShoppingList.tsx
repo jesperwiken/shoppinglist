@@ -89,7 +89,7 @@ export function ShoppingList() {
       )}
 
       {items.length === 0 && (
-        <p style={{ color: '#888' }}>Listan ar tom</p>
+        <p style={{ color: '#888' }}>Listan ar helt tom</p>
       )}
     </div>
   )
