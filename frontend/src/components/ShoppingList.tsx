@@ -79,7 +79,7 @@ export function ShoppingList() {
             marginTop: '20px',
             padding: '8px 16px',
             backgroundColor: '#ff4444',
-            color: 'white',
+            color: 'green',
             border: 'none',
             cursor: 'pointer'
           }}
